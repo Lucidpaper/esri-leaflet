@@ -1,0 +1,8 @@
+{
+  "name": "esri-leaflet",
+  "description": "Esri Leaflet supports loading Esri basemaps and feature services, as well as tiled and dynamic map services.",
+  "homepage": "",
+  "author": "Aiko Cheslin <lucidpaper@gmail.com>",
+  "version": "0.0.1",
+  "git": ""
+}
